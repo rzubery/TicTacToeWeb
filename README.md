@@ -63,4 +63,4 @@ This is a simple and stylish Tic-Tac-Toe game implemented using HTML, CSS, and J
 
 ## Author
 
-This project was created by \rzubery.
+This project was created by rzubery.
